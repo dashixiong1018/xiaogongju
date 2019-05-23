@@ -19,4 +19,3 @@ class XiaogongjuItem(scrapy.Item):
     author = scrapy.Field()
     star = scrapy.Field()
     jianjie = scrapy.Field()
-    url = scrapy.Field()
