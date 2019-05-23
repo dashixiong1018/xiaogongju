@@ -2,3 +2,4 @@ requests
 scrapy
 html5lib
 bs4
+scrapyd-client
