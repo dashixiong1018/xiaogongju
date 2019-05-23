@@ -1,3 +1,4 @@
 requests
 scrapy
 html5lib
+bs4
