@@ -173,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -211,15 +211,16 @@
       <workItem from="1558439283610" duration="12039000" />
       <workItem from="1558535120227" duration="5222000" />
       <workItem from="1558576056731" duration="1421000" />
-      <workItem from="1558578878932" duration="1625000" />
+      <workItem from="1558578878932" duration="2126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24649000" />
+    <option name="totallyTimeSpent" value="25150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="148" width="1730" height="772" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11729858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
